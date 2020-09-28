@@ -86,7 +86,8 @@ Select objects or \<select all\>
 
 //Right click on screen \[Fence/Crossing, Project, eRase, Undo\] specify
 opposite corner: specify opposite corner: Use cursor to remove the
-unnecessary parts as shown in the figure\...
+unnecessary parts as shown in the figure below.
+
 ![](./VCRemote/media/image5.jpeg)
 
 Figure 3
